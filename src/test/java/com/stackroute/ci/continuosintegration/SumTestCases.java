@@ -12,12 +12,12 @@ public class SumTestCases {
 	@BeforeClass
 	public static void init() throws Exception {
 		
-		app = new App();
+		
 	}
 	
 	@Test
 	public void AddtionTestCase() {
-		assertEquals(20,app.sum(10,1));//for sum test case
+		assertEquals(20,app.sum(10,1));//for sum test case added
 	}
 
 }
