@@ -17,7 +17,7 @@ public class SumTestCases {
 	
 	@Test
 	public void AddtionTestCase() {
-		assertEquals(20,app.sum(10, 5));//for sum test cases
+		assertEquals(20,app.sum(10,1));//for sum test cases
 	}
 
 }
