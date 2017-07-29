@@ -7,7 +7,7 @@ package com.stackroute.ci.continuosintegration;
 public class App {
 
 	public int sum(int num1, int num2) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubsss
 		return num1 + num2;
 	}
 
